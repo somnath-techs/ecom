@@ -11,6 +11,7 @@
 <title>Title</title>
 </head>
 <body>
+  <!-- hii -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Shophyni</a>
@@ -20,16 +21,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="./ecom/index.php">Home</a>
+          <a class="nav-link active" aria-current="page" href="/ecom/index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="./ecom/src/pages/Products.php">Products</a>
+          <a class="nav-link" href="/ecom/src/pages/Products.php">Products</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="ecom/pages/Contact.php">Contact</a>
+          <a class="nav-link" href="/ecom/src/pages/Contact.php">Contact</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="ecom/src/pages/About.php">About</a>
+          <a class="nav-link" href="/ecom/src/pages/About.php">About</a>
         </li>
         
       </ul>
